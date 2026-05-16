@@ -3,7 +3,7 @@
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
-RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
+RapidMiner provides data mining and machine learning procedures including: data loading and transformation  (ETL), data preprocessing and visualization, 
 predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. 
 RapidMiner provides a GUI to design and execute analytical workflows. Those workflows are called “Processes” in RapidMiner and they consist of multiple “Operators”. 
 Each operator performs a single task within the process, and the output of each operator forms the input of the next one. Alternatively, the engine can be called from 
